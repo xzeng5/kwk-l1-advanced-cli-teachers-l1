@@ -7,7 +7,7 @@
 You've just been hired by your local grocery store to stock all the shelves with a delivery that has come in from the warehouse. Congratulations on your new job.
 
 ### Get the files
-Go to the GitHub link at the top of the lab and, if you are familiar with Github already, clone the repo locally. Otherwise, click on the "Download Zip" button on the bottom-right side of the screen. Once you've downloaded the file, double click it to unzip the file, and then drag the unzipped file (called 'hs-advanced-cli-master') to your development directory.
+There are a couple of ways you can get these files. Choose the method that works for you. You can click `Open` at the top of this page. You could also go to the GitHub link at the top of the lab and, if you are familiar with Github already, clone the repo locally. Otherwise, click on the "Clone or Download" button then the "Download Zip" button on the right side of the screen. Once you've downloaded the file, double click it to unzip the file, and then drag the unzipped file (called 'hs-advanced-cli-master') to your development directory.
 
 ## Part 1: Write a shell script
 You've learned about the different commands in your terminal (`ls`, `mv`, `rm`, `mkdir`, `touch`, etc), but now we're going to learn how to string these commands together by using **bash scripting**. A _bash script is essentially a file with a set of instructions inside of it that when called from the command line will run the commands in the order in which they are written in the file_. For example, in your development directory create a file called `test_script.sh`. Open this file in a text editor (such as Nitrous). Add to the contents of the file:
