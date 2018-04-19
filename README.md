@@ -1,5 +1,3 @@
-
-
 ## Advanced Command Line and Shell Scripting
 
 ![simpsons grocery store](https://metrouk2.files.wordpress.com/2015/06/simpsons-2.gif)
@@ -61,4 +59,4 @@ Using the `grep` command, find out the following information:
 * What food has a youtube link inside of it?
 * What food has the word _sprinkles_ in it?
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-advanced-cli' title='Advanced Command Line and Shell Scripting'>Advanced Command Line and Shell Scripting</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-L1 Advanced Command Line and Shell Scripting</p>
