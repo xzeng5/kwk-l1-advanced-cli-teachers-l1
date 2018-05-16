@@ -47,14 +47,11 @@ grep -r dog big_directory_with_sub_directories
 
 Using the `grep` command, find out the following information:
 
-* How many calories does a serving of eggo waffles have?
 * What food is otherwise known as _gorp_?
-* How many calories does a serving of broccoli have?
 * Which food has the word _grapes_ in its text file?
 * Which food may or may not be _gluten free_, based on its file text.
 * Winston Churchill is hiding in a food's text file. What food?
 * What food is used to ward off vampires?
-* How many calories in a serving of butter?
 * Name the food that has a joke about canteloupe hidden inside it.
 * What food has a youtube link inside of it?
 * What food has the word _sprinkles_ in it?
