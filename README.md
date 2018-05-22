@@ -4,6 +4,8 @@
 
 You've just been hired by your local grocery store to stock all the shelves with a delivery that has come in from the warehouse. Congratulations on your new job.
 
+Hello!!! 
+
 ### Get the files
 There are a couple of ways you can get these files. Choose the method that works for you. You can click `Open` at the top of this page. You could also go to the GitHub link at the top of the lab and, if you are familiar with Github already, clone the repo locally. Otherwise, click on the "Clone or Download" button then the "Download Zip" button on the right side of the screen. Once you've downloaded the file, double click it to unzip the file, and then drag the unzipped file (called 'kwk-l1-advanced-cli') to your development directory.
 
