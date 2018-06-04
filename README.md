@@ -24,8 +24,8 @@ Save and close the file and then run it in your terminal by typing `sh test_scri
 
 ### Challenge 1
 Using the mini-lesson above, write a bash script that will put all of the files in the delivery directory in their right locations. As part of the challenge:
--You cannot `cd` into any directories, you must stay in the root directory of the project.
--All commands should be written in a shell script called `stock_supermarket.sh`.
+- You cannot `cd` into any directories, you must stay in the root directory of the project.
+- All commands should be written in a shell script called `stock_supermarket.sh`.
 
 ## Part 2: Search for code inside files
 
